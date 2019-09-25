@@ -37,6 +37,8 @@ proguard/
 */build
 */build/*
 
+# apk file
+/app/apk/*
 
 # Android Studio Navigation editor temp files
 .navigation/
